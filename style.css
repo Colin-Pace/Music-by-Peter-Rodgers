@@ -32,12 +32,12 @@ li {
 
 @media screen and (max-width: 600px) {
   img {
-    height: 30%;
-    width: 45%;
+    height: 25%;
+    width: 40%;
     margin-left: 50%;
   }
 
   li {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 }
