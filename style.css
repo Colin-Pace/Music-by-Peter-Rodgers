@@ -30,7 +30,7 @@ li {
   margin-top: 30px;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 600px) {
   img {
     height: 30%;
     width: 45%;
